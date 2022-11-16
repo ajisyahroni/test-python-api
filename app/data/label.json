@@ -1,0 +1,87 @@
+[
+    {
+        "prefix": "SE",
+        "code": "SE_AI",
+        "name": "Artificial Intelligence"
+    },
+    {
+        "prefix": "SE",
+        "code": "SE_WEB",
+        "name": "Web Technology"
+    },
+    {
+        "prefix": "SE",
+        "code": "SE_MOBILE",
+        "name": "Mobile Technology"
+    },
+    {
+        "prefix": "SE",
+        "code": "SE_DB",
+        "name": "Database"
+    },
+    {
+        "prefix": "SE",
+        "code": "SE_GAME",
+        "name": "Game"
+    },
+    {
+        "prefix": "SE",
+        "code": "SE_DM",
+        "name": "Data Mining"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_2D",
+        "name": "2D Technology"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_3D",
+        "name": "3D Technology"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_MG",
+        "name": "Motion Graphic"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_MI",
+        "name": "Interactive Media"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_VIDEO",
+        "name": "Product Video"
+    },
+    {
+        "prefix": "MM",
+        "code": "MM_VFX",
+        "name": "Visual Effect"
+    },
+    {
+        "prefix": "CN",
+        "code": "CN_SECURITY",
+        "name": "Network Security"
+    },
+    {
+        "prefix": "CN",
+        "code": "CN_INFRA_WEB_INET",
+        "name": "Web and Internet Infrastructure"
+    },
+    {
+        "prefix": "CN",
+        "code": "CN_NIRCABLE",
+        "name": "Nircable Network"
+    },
+    {
+        "prefix": "CN",
+        "code": "CN_NETWORK_PLAN_IMPL",
+        "name": "Network Planning/Implementation"
+    },
+    {
+        "prefix": "CN",
+        "code": "CN_IOT",
+        "name": "Internet Of Things"
+    }
+]
