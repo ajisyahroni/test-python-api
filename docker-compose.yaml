@@ -2,8 +2,8 @@ services:
   app:
     build: .
     container_name: fastapi-ptn
-    command: uvicorn app.main:app --host 0.0.0.0 --port 80 --reload
+    command: uvicorn app.main:app --host 0.0.0.0 --port 80 --reload  --ssl-keyfile=./key.pem --ssl-certfile=./cert.pem
     ports:
-      - 8080:80
+      - 80:80
     volumes:
       - .:/app
